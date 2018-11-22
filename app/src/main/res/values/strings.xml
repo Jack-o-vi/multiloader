@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ServicesApp</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="pause">Pause</string>
+    <string name="resume">Resume</string>
+    <string name="clear">Clear All</string>
+    <string name="some_sample_image">Some Sample Image</string>
+    <string name="text_placeholder">Text Placeholder</string>
+</resources>
